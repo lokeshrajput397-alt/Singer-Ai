@@ -1,0 +1,7 @@
+{
+  "name": "Singer Ai",
+  "description": "An AI-powered vocal production assistant that listens to your voice, analyzes the musicality, and generates harmonization and accompaniment concepts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
